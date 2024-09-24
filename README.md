@@ -8,13 +8,13 @@ Ceci est un projet Flutter simple avec une seule page. Les boutons n'ont pas de 
 - Un IDE comme Visual Studio Code ou Android Studio
 
 ## Installation
-1. Clonez le dépôt :
+1. Clonez le projet :
     ```sh
-    git clone https://github.com/votre-utilisateur/votre-repo.git
+    git clone https://github.com/AnthonyPainchaud/hb_app.git
     ```
 2. Accédez au répertoire du projet :
     ```sh
-    cd votre-repo
+    cd hb_app
     ```
 3. Installez les dépendances :
     ```sh
